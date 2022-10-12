@@ -1,4 +1,4 @@
-# Heavy Duty construyendo con Anchor
+
 
 Caracteristicas
 
